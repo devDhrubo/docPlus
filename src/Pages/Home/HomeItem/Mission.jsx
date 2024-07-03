@@ -6,7 +6,7 @@ const Mission = () => {
             <div className="flex items-center gap-28 px-[140px] mt-20">
                 <div className="w-1/2 space-y-3">
                     <button className="btn btn-outline rounded-full">Who we are</button>
-                    <h2 className="text-4xl font-semibold">We Help To Get <br /> Solutions</h2>
+                    <h2 className="text-4xl font-semibold text-[#020043]">We Help To Get <br /> Solutions</h2>
                     <p className="text-[16px]">We are proud to be a trusted healthcare provider in our community, and we look forward to serving you and your family with excellence, integrity, and compassion. Your health is our priority, and we are here for you every step of the way. We believe in treating each patient with dignity, respect, and empathy, ensuring that they receive the attention and care they deserve.
                     </p>
                     <a className="btn rounded-xl bg-[#FFC637] outline-none">Learn more<MdArrowOutward /></a>

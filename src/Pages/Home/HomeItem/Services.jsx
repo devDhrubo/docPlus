@@ -7,7 +7,7 @@ const Services = () => {
         <div className="grid grid-cols-2 mt-32 px-[140px] gap-10">
             <div className="space-y-5">
                 <button className="btn btn-outline rounded-full">Service</button>
-                <h2 className="text-4xl font-semibold">Empowering Health, <br /> Enriching Lives</h2>
+                <h2 className="text-4xl font-semibold text-[#020043]">Empowering Health, <br /> Enriching Lives</h2>
                 <p className="text-[16px]">We are committed to providing high-quality, compassionate care to every patient we serve. Whatever your healthcare needs may be, you can trust us to be your partner in health and wellness.
                 </p>
                 <a className="btn rounded-xl bg-[#FFC637] outline-none">Appointment<MdArrowOutward /></a>
