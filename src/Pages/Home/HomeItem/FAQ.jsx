@@ -2,7 +2,7 @@ const FAQ = () => {
     return (
         <div className="px-[140px] mt-20">
             <div className="space-y-3 mb-5">
-                <button className="btn btn-outline rounded-full">FAQ</button>
+                <button className="btn btn-outline rounded-full px-5">FAQ</button>
                 <h2 className="text-4xl font-semibold text-[#020043]">Frequntly Asked Question</h2>
             </div>
             <div>

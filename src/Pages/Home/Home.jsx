@@ -1,3 +1,4 @@
+import CTA from "./HomeItem/CTA";
 import FAQ from "./HomeItem/FAQ";
 import MainHome from "./HomeItem/MainHome";
 import Mission from "./HomeItem/Mission";
@@ -11,7 +12,8 @@ const Home = () => {
             <Mission />
             <Services />
             <Testimonial />
-            <FAQ/>
+            <FAQ />
+            <CTA/>
         </div>
     );
 };
